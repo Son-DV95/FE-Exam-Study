@@ -1,0 +1,6 @@
+{
+  "name": "FE Exam Study Tool",
+  "description": "An interactive web application to help users study for the Japanese Fundamental Information Technology Engineer (FE) Examination using AI-generated practice questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
